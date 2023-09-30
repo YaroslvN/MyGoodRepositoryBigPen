@@ -2,7 +2,7 @@
 ## Работа с GIT
 -----
 <p align="center"><img src="https://i.ebayimg.com/images/g/4ysAAOSw2j9jZekG/s-l1200.webp" src = width="300"></p>
-<p><a href="https://maze.toys/mazes/mini/daily/"></p>
+<p><a href="https://maze.toys/mazes/mini/daily/">The best game</p>
 <table>
   <tr>
     <th>Имя</th>
@@ -27,6 +27,11 @@
 </table>
   
 <p><button> The good game</button></p>
+
+<lable>
+  <p>Текст</p>
+  <imput></imput>
+</lable>
 
 -----
   
