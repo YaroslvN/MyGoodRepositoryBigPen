@@ -25,7 +25,7 @@
     <td>Студент</td>
   </tr>
 </table>
-<button href = "https://maze.toys/mazes/mini/daily/"> The good game</button>
+<p><button align = "center"> The good game</button></p>
 
 -----
   
