@@ -12,7 +12,7 @@
   <tr>
     <td>Ярослав</td>
     <td>18</td>
-    <td>студент</td>
+    <td>Студент</td>
   </tr>
   <tr>
     <td>Илья</td>
@@ -25,6 +25,7 @@
     <td>Студент</td>
   </tr>
 </table>
+<button href = "https://maze.toys/mazes/mini/daily/"> The good game</button>
 
 -----
   
