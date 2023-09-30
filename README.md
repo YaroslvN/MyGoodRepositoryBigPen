@@ -4,11 +4,11 @@
 <p align="center"><img src="https://i.ebayimg.com/images/g/4ysAAOSw2j9jZekG/s-l1200.webp" src = width="300"></p>
 <p><a href="https://maze.toys/mazes/mini/daily/"></p>
 <table>
-  <th>
-    <td>Имя</td>
-    <td>Возвраст</td>
-    <td>Профессия</td>
-  </th>
+  <tr>
+    <th>Имя</th>
+    <th>Возвраст</th>
+    <th>Профессия</th>
+  </tr>
   <tr>
     <td>Ярослав</td>
     <td>18</td>
