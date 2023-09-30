@@ -25,7 +25,8 @@
     <td>Студент</td>
   </tr>
 </table>
-<p><button align = "center"> The good game</button></p>
+  
+<p><button> The good game</button></p>
 
 -----
   
