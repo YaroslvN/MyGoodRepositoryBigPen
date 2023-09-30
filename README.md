@@ -5,7 +5,6 @@
 <p><a href="https://maze.toys/mazes/mini/daily/"></p>
 <table>
   <th>
-    <td></td>
     <td>Имя</td>
     <td>Возвраст</td>
     <td>Профессия</td>
